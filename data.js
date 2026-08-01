@@ -50,6 +50,7 @@ const cvData = {
     {
       nome: "Gestione amministrativa di base",
       dettaglio: "Supporto alle attività di cassa e alla gestione amministrativa, sia in ambito familiare sia lavorativo."
+    },
     {
       nome: "Controllo qualità e problem solving",
       dettaglio: "Verifica della qualità dei materiali in lavorazione e individuazione tempestiva di malfunzionamenti negli impianti, con capacità di analizzare il problema e intervenire per risolverlo."
