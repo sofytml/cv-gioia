@@ -2,10 +2,10 @@
    TOKEN DI BASE — cambia i colori/font qui, si aggiornano ovunque
    ============================================================ */
 :root {
-  --color-bg: #EFE6D8;          /* sabbia calda, di fondo */
-  --color-surface: #F8F3EA;     /* superficie più chiara, per le card */
-  --color-ink: #2A241E;         /* testo principale, bruno scuro */
-  --color-ink-soft: #6B5F52;    /* testo secondario */
+  --color-bg: #E3E8DF;          /* verde salvia chiaro, di fondo */
+  --color-surface: #EEF1E7;     /* superficie più chiara, per le card */
+  --color-ink: #23271F;         /* testo principale, verde scurissimo quasi nero */
+  --color-ink-soft: #5B6255;    /* testo secondario */
   --color-accent: #145349;      /* verde petrolio, colore principale */
   --color-accent-dark: #0C3B32; /* verde petrolio scuro, per hover */
   --color-secondary: #B5603D;   /* terracotta, usato solo sulle icone tecniche */
