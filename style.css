@@ -6,9 +6,9 @@
   --color-surface: #F8F3EA;     /* superficie più chiara, per le card */
   --color-ink: #2A241E;         /* testo principale, bruno scuro */
   --color-ink-soft: #6B5F52;    /* testo secondario */
-  --color-accent: #A8552F;      /* terracotta, colore principale */
-  --color-accent-dark: #7C3F22; /* terracotta scura, per hover */
-  --color-secondary: #2F4A43;   /* verde petrolio, usato solo sulle icone tecniche */
+  --color-accent: #145349;      /* verde petrolio, colore principale */
+  --color-accent-dark: #0C3B32; /* verde petrolio scuro, per hover */
+  --color-secondary: #B5603D;   /* terracotta, usato solo sulle icone tecniche */
   --color-border: #D6C7B0;
 
   --font-display: "Source Serif 4", serif;
