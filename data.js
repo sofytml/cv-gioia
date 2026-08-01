@@ -12,7 +12,6 @@ const cvData = {
   profilo: {
     nome: "Gioia Tombolato",
     ruolo: "Responsabile di Reparto: Coordinamento operativo e gestione processi",
-    linkedin: "https://www.linkedin.com/in/gioia-t-b14095376",
     citta: "Cittadella (PD)",
     foto: "1.jpg", // TODO: aggiungere il file, questo nome è solo un segnaposto
     bio: "Professionista con esperienza nel coordinamento di attività operative e nella gestione di reparti produttivi. Ho sviluppato solide competenze nell'organizzazione del lavoro, nella pianificazione delle attività, nel controllo dei processi e nel supporto tecnico operativo, contribuendo al raggiungimento degli obiettivi aziendali e al mantenimento di elevati standard qualitativi. Mi distinguo per precisione, affidabilità e capacità di problem solving, unite a una naturale predisposizione alla leadership e al lavoro di squadra. Abituata a contesti dinamici, gestisco responsabilità, priorità e imprevisti con approccio pratico, autonomia e forte orientamento ai risultati."
