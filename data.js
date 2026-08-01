@@ -85,7 +85,7 @@ const cvData = {
       ruolo: "Responsabile di reparto membrane osmotiche",
       azienda: "Think:Water, Cittadella (PD)",
       periodo: "Da aprile 2019 a oggi",
-      logo: "TW.jpg", // TODO: scaricare dal sito ufficiale, vedi indicazioni a parte
+      logo: "TW.svg", // TODO: scaricare dal sito ufficiale, vedi indicazioni a parte
       sito: "https://thinkwater.com/",
       instagram: "https://www.instagram.com/thinkwater_italia/",
       facebook: "https://www.facebook.com/ProfineItalia",
