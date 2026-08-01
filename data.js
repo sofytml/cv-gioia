@@ -126,7 +126,7 @@ const cvData = {
   contatti: {
     telefono: "+39 340 898 3532",
     email: "gioia.92t@gmail.com",
-    linkedin: "", // TODO: chiedere a Gioia se ha un profilo LinkedIn
+    linkedin: "https://www.linkedin.com/in/gioia-t-b14095376", // TODO: chiedere a Gioia se ha un profilo LinkedIn
     patente: "Patente B, automunita",
     noteGdpr: "Autorizzo il trattamento dei miei dati personali ai sensi del D.Lgs. 196/2003 e dell'art. 13 GDPR."
   }
