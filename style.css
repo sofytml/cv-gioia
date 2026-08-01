@@ -315,15 +315,11 @@ a { color: var(--color-accent); }
 }
 
 .logo-azienda {
-  height: 22px;
+  height: 28px;
   width: auto;
   max-width: 90px;
   object-fit: contain;
-  padding: 6px 10px;
-  background: var(--color-ink);
-  border-radius: 4px;
 }
-
 .link-azienda {
   font-family: var(--font-label);
   font-size: 0.8rem;
