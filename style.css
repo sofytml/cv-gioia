@@ -197,10 +197,11 @@ a { color: var(--color-accent); }
   line-height: 1.6;
 }
 
-.tag-icona {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
+.tag-icona svg {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  color: var(--color-secondary);
 }
 
 .tag-icona svg {
